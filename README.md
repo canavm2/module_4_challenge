@@ -3,6 +3,7 @@
 The module 4 challenge for fintech course
 
 The Jupyter Lab file follows along as an exercise to analyze risk and reward, following statistics like standard deviation, shapre ratio and beta.
+
 ---
 
 ## Technologies
@@ -10,11 +11,13 @@ The Jupyter Lab file follows along as an exercise to analyze risk and reward, fo
 The sheet requires Pandas for analyzing data frames in jupyter labs.
 It requires Jupyter Labs for a user interface.
 It requires Path from pathlib to help read .csv files.
+
 ---
 
 ## Installation Guide
 
 Other than Python 3.7, no installation is necessary, Jupyter Labs runs in a browser, including Chrome.  Launch the file by navigating to the directory of the file through a CLI and then running Jupyter labs, with "jupyter lab".
+
 ---
 
 ## Usage
